@@ -1,0 +1,90 @@
+.navbar a { color: white;
+}
+
+.nav li a:hover {
+    background: #C5C6C7;
+}
+
+.navbar-header a {
+    font-size: 25px;
+}
+
+.navbar-custom {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+header {
+    height: 300px;
+    padding: 100px 50px;
+    color: White;
+}
+
+header h2 { font-size: 30px;
+}
+
+#post {
+    border-bottom: 1px solid #ffff;
+}
+
+#post h2 { 
+    font-weight: bold;
+    color: #66FCF1;
+}
+
+#post h2 a {
+    color: #66FCF1;
+    text-decoration: none;
+}
+
+#post h2 a:hover {
+    color: #45A29E;
+}
+
+.down-btn {
+    padding: 50px 0px;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.btn-default:hover {
+    background: #C5C6C7;
+    color: #ffff;
+}
+
+.nav-mycenter {
+    float: none;
+    display: table;
+    table-layout: fixed;
+    margin: 0 auto;
+    text-decoration: none;
+}
+
+.nav-mycenter li a:hover {
+    background: #C5C6C7;
+}
+
+.m-col {
+    -webkit-column-count: 3;
+}
+
+.m-btn {
+    color: grey;
+}
+
+.m-btn:hover {
+    background: #C5C6C7;
+}
+
+#contact h1 {
+    font-weight: bold;
+    color: #66FCF1;
+    text-decoration: none;
+}
+
+p, a, label {
+    color: #ffff;
+}
